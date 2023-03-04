@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "vsprintf.h": "c",
+        "userinterface.h": "c",
+        "kmalloc.h": "c",
+        "malloc.h": "c",
+        "taskqueue.h": "c",
+        "mem.h": "c",
+        "myprintk.h": "c",
+        "task.h": "c",
+        "state.h": "c",
+        "scheduler.h": "c"
+    }
+}

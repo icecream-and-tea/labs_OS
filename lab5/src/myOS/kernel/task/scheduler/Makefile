@@ -1,0 +1,1 @@
+SCHEDULE_OBJS = output/myOS/kernel/task/scheduler/FCFS.o
